@@ -1,0 +1,13 @@
+# CSA1282-CA
+Computer architecture...
+LHLD 2500
+XCHG
+LHLD 2502
+MOV A,E
+ADD L
+MOV L,A
+MOV A,D
+ADC H
+MOV H,A
+SHLD 2504
+HLT
